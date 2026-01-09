@@ -68,7 +68,14 @@ python app.py
 ```
 ## 📊 Exploratory Data Analysis (EDA)
 The project includes data visualization using Matplotlib and Seaborn to understand relationships between features and house prices.
-
-
+```
+cd notebooks
+jupyter notebook house_price_analysis.ipynb
+```
+## 📈 Model Evaluation
+The model performance is evaluated using:
+- R² Score
+- Mean Squared Error (MSE)
+These metrics help in understanding how well the model fits the data.
 
 
