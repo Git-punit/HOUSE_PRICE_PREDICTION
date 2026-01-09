@@ -79,10 +79,12 @@ The model performance is evaluated using:
   
 These metrics help in understanding how well the model fits the data.
 
-##🖼️ Screenshots
-![Output Screenshot](screenshots/output.png)
-![EDA Graph](screenshots/eda.png)
+## 🖼️ Screenshots
 
+![Output Screenshot](notebooks/image.png)
+
+
+![Output Screenshot](notebooks/image1.png)
 
 
 
