@@ -58,4 +58,17 @@ cd House_Price_Prediction
 ```
 
 ### Step 2: Install Dependencies
+```
+pip install -r requirements.txt
+```
+### Step 3: Run the Project
+```
+python app.py
+
+```
+## 📊 Exploratory Data Analysis (EDA)
+The project includes data visualization using Matplotlib and Seaborn to understand relationships between features and house prices.
+
+
+
 
