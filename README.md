@@ -74,8 +74,9 @@ jupyter notebook house_price_analysis.ipynb
 ```
 ## 📈 Model Evaluation
 The model performance is evaluated using:
-- R² Score
-- Mean Squared Error (MSE)
+- *R² Score*
+- *Mean Squared Error (MSE)*
+  
 These metrics help in understanding how well the model fits the data.
 
 
