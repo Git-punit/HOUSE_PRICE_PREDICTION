@@ -87,6 +87,9 @@ These metrics help in understanding how well the model fits the data.
 ![Output Screenshot](notebooks/image1.png)
 
 
+![Output Screenshot](notebooks/Screenshot_2026-01-09_132409.png)
+
+
 
 
 
