@@ -81,10 +81,16 @@ These metrics help in understanding how well the model fits the data.
 
 ## 🖼️ Screenshots
 
+![Output Screenshot](notebooks/Screenshot_2026-01-09_132409.png)
+
+
 ![Output Screenshot](notebooks/image.png)
 
 
 ![Output Screenshot](notebooks/image1.png)
+
+
+
 
 
 
